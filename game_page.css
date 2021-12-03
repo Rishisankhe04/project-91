@@ -1,0 +1,11 @@
+body{
+    background:lawngreen;
+}
+#output{
+    background:royalblue;
+    border-radius:2px;
+    border:5px solid linen;
+    padding:10px;
+    float:none;
+    text-align:left;
+}
